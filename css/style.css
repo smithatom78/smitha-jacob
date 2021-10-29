@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    font-size: 40;
+}
+
+body {
+    background-image: url("../images/banner1.jpg");
+    background-size: cover;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
