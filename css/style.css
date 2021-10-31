@@ -71,9 +71,65 @@
         
         footer {
             width: 100%;
-            padding: 10px;
+            margin-bottom: 1%;
+        }
+        
+        .myflinks {
+            padding: 30px;
+            background-color: grey;
+        }
+        
+        .myflinks a:link {
+            color: black;
+        }
+        
+        .myflinks a:hover {
+            color: red;
+        }
+        /* selected link */
+        
+        .myflinks a:active {
+            color: black;
+            font-weight: bold;
         }
         
         blockquote p {
             font-size: medium;
+        }
+        
+        .mycaro {
+            width: 800px;
+            height: 450px;
+            margin: 10px;
+        }
+        
+        .mylogin {
+            padding: 20px;
+        }
+        
+        .mylogform {
+            background-color: lightgray;
+            padding: 20px;
+            height: 440px;
+            width: 420px;
+        }
+        
+        video {
+            width: 1200px;
+            border: 2px;
+        }
+        
+        .myreg {
+            background-color: lightgray;
+            padding: 30px;
+            height: 740px;
+            width: 820px;
+        }
+        
+        .mycard1 {
+            width: 250px;
+        }
+        
+        section {
+            border: 2px;
         }
