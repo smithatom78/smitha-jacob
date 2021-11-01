@@ -138,3 +138,10 @@
             text-align: right;
             color: black;
         }
+        
+        .mydis {
+            width: 1300px;
+            background-color: lightgray;
+            padding: 30px;
+            margin-left: 110px;
+        }
